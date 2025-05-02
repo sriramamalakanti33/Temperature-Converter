@@ -64,7 +64,7 @@ To run the temperature converter locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/sriramamalakanti33/temperature-converter.git
    ```
 
 2. Navigate to the project directory:
